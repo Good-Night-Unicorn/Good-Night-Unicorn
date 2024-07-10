@@ -3,7 +3,7 @@
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/javayoungcoolboy?type=sub&subType=watch)、[B站💤](https://space.bilibili.com/3546643806816949?spm_id_from=333.1007.0.0) - 足够硬核，内容老狠了！
 - 🏡 2600套javaweb项目：<a href="https://pan.baidu.com/s/1W4eIlk1EWURvcO45RGrUCg?pwd=6666 " target="_blank">更多项目介绍视频链接</a> 需要了解的同学可以加微信私信我
-- 🚀兼职：专注于大学生项目实战开发,讲解,毕业答疑辅导,承接JavaWeb（网站）开发，微信小程序制作，安卓开发以及项目二次开发
+- 🚀兼职：专注于大学生项目实战开发,讲解,毕业答疑辅导,承接JavaWeb（网站）开发，微信小程序制作，安卓开发以及项目二次开发,欢迎各位同学打扰！
 - 💌 微信：FY-yuanma 备注来意
 
 
