@@ -25,6 +25,17 @@
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+## 关于我们
+
+本人9年全栈工程师经验，而且我们团队还有专职程序员以及长期兼职程序员数名，强大的团队保证我们的信誉以及完善的售后服务。
+
+## 定制流程
+1. 客户通过将自己毕业设计的具体功能需求，例如：自己设计的开发语言、数据库、功能模块等要求通过客服进行详细交流，以便确定设计的开发时间和开发费用。
+2. 经过协商，双方将设计的开发周期和开发费用定好后，客户将设计总款项的40%作为项目的定金，汇入指定的支付宝或微信等，并及时通知我们，以便尽快确认您的汇款信息。
+3. 我们确认收到您的款项后，立即将您的设计安排到开发进程中去，设计正式启动。
+4. 设计制作完成后，会通过远程演示或发送视频录像的方式，让客户进行确认。
+5. 客户确认设计，无异议后支付剩余60%的费用。
+6. 确认收到后，将全套设计打包，通过客户指定的微信或QQ发送给客户。
 
 
 ## 今年汇总(This year's summary) 
