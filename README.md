@@ -9,7 +9,7 @@
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/javayoungcoolboy?type=sub&subType=watch)、[个人网站💤](https://fengye.vercel.app/)- 足够硬核，内容老狠了！
 
 - 🚀兼职：专注于大学生项目实战开发,讲解,毕业答疑辅导,承接JavaWeb（网站）开发，微信小程序制作，安卓开发以及项目二次开发,欢迎各位同学打扰！
-- 💌 微信：FY-yuanma 备注来意
+- 💌 QQ：3042127848 备注来意
 
 
 ### 我的技能(my skills)   
