@@ -3,6 +3,8 @@
 
 <img align="right" src="https://github.com/Good-Night-Unicorn/Good-Night-Unicorn/blob/main/ec0c2c42df39c6c64434297e72a02cd0.png?raw=true" width="300">
 
+<img align="right" src="https://github.com/Good-Night-Unicorn/Good-Night-Unicorn/blob/main/Y6H6IC%40%24(EYX52%24WFKGQK08.png?raw=true" width="300">
+
 ## 我是枫叶 🌷
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
