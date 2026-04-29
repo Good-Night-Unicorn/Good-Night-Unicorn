@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/Good-Night-Unicorn/Good-Night-Unicorn/blob/main/ec0c2c42df39c6c64434297e72a02cd0.png?raw=true" width="300">
 
-<img align="right" src="https://github.com/Good-Night-Unicorn/Good-Night-Unicorn/blob/main/Y6H6IC%40%24(EYX52%24WFKGQK08.png?raw=true" width="300">
+
 
 ## 我是枫叶 🌷
 
@@ -12,7 +12,6 @@
 
 - 🚀兼职：专注于大学生项目实战开发,讲解,毕业答疑辅导,承接JavaWeb（网站）开发，微信小程序制作，安卓开发以及项目二次开发,欢迎各位同学打扰！
 - 💌 QQ：3042127848 备注来意
-
 
 ### 我的技能(my skills)   
 
@@ -29,6 +28,7 @@
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 ## 关于我们
 
+
 本人9年全栈工程师经验，而且我们团队还有专职程序员以及长期兼职程序员数名，强大的团队保证我们的信誉以及完善的售后服务。
 
 ## 定制流程
@@ -38,7 +38,7 @@
 4. 设计制作完成后，会通过远程演示或发送视频录像的方式，让客户进行确认。
 5. 客户确认设计，无异议后支付剩余60%的费用。
 6. 确认收到后，将全套设计打包，通过客户指定的微信或QQ发送给客户。
-
+<img align="right" src="https://github.com/Good-Night-Unicorn/Good-Night-Unicorn/blob/main/Y6H6IC%40%24(EYX52%24WFKGQK08.png?raw=true" width="300">
 
 ## 今年汇总(This year's summary) 
 
