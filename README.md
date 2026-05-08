@@ -38,7 +38,7 @@
 4. 设计制作完成后，会通过远程演示或发送视频录像的方式，让客户进行确认。
 5. 客户确认设计，无异议后支付剩余60%的费用。
 6. 确认收到后，将全套设计打包，通过客户指定的微信或QQ发送给客户。
-<img align="right" src="https://github.com/Good-Night-Unicorn/Good-Night-Unicorn/blob/main/Y6H6IC%40%24(EYX52%24WFKGQK08.png?raw=true" width="300">
+
 
 ## 今年汇总(This year's summary) 
 
