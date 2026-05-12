@@ -9,7 +9,7 @@
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/javayoungcoolboy?type=sub&subType=watch)、[个人网站💤](https://fengyexuezhang.vercel.app/)- 足够硬核，内容老狠了！
-
+- [《项目说明+演示+常见问题》💤](https://www.yuque.com/yuqueyonghu6kvfuf/gtuk4q/nlra21r80xc6l2i4?singleDoc# )《项目说明+演示+常见问题》
 - 🚀兼职：专注于大学生项目实战开发,讲解,毕业答疑辅导,承接JavaWeb（网站）开发，微信小程序制作，安卓开发以及项目二次开发,欢迎各位同学打扰！
 - 💌 QQ：3042127848 备注来意
 
