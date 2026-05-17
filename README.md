@@ -39,12 +39,6 @@
 6. 确认收到后，将全套设计打包，通过客户指定的微信或QQ发送给客户。
 
 
-## 今年汇总(This year's summary) 
-
-![](https://github-readme-stats.vercel.app/api?username=Good-Night-Unicorn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
   
