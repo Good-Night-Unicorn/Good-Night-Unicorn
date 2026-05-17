@@ -42,7 +42,6 @@
 ## 今年汇总(This year's summary) 
 
 ![](https://github-readme-stats.vercel.app/api?username=Good-Night-Unicorn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Good-Night-Unicorn&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
 
